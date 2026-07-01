@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector databases
+chroma_db/
+vector_store/
+
+# Uploaded files
+uploads/
+
+# VS Code
+.vscode/

@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-mistralai
+
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+
+torch
+transformers
+huggingface-hub
+
+tiktoken
